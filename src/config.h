@@ -7,7 +7,7 @@
 #define OLED_ADDR 0x3C     
 
 
-#define TARGET_SSID "Beeline_2G_F1653F" // Название сети для анализа
+#define TARGET_SSID "Название сети для анализа" // Название сети для анализа
 
 
 #define GRAPH_WIDTH 128     
